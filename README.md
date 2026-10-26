@@ -1,6 +1,3 @@
-# Product Packaging Design — Herbal Velvet Lipstick
-
-Brand: Verdant Flora
 # 🌿 Verdant Flora — Herbal Velvet Lipstick Packaging Design
 
 A complete, eco-luxury product packaging and brand identity system created for a graphic design and product design internship task. This project includes an outer folding box dieline layout, inner container renders, color palette specifications, and regulatory compliance labeling.
